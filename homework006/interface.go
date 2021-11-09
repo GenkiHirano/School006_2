@@ -3,6 +3,7 @@ package homework006
 import "fmt"
 
 // 第6回スクール 宿題4 インターフェースを実装してください。
+//
 type Calculation interface {
 	Total() int
 	Average() int

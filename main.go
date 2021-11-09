@@ -6,6 +6,7 @@ import (
 	"github.com/GenkiHirano/School006_2/homework006"
 )
 
+//
 func main() {
 	homework006.Test_1()
 	homework006.Test_2()

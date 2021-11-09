@@ -3,6 +3,7 @@ package homework006
 import "fmt"
 
 // User 構造体を定義してください。
+//
 type User struct {
 	name  string
 	score int
