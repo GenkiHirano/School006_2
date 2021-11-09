@@ -7,10 +7,6 @@ type Triangle struct {
 	Bottom, Height int
 }
 
-//func (t Triangle) Triangle() int {
-//	return t.Bottom * t.Height / 2
-//}
-
 func (t Triangle) Test_3() int {
 	fmt.Println("homework006_3")
 	// 第6回スクール 宿題3 メソッドを実装してください。
